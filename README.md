@@ -1,6 +1,6 @@
 # MDT-Auto-Deployment
 
-Microsoft Deployment Toolkit Auto-Deployment PowerShell Script
+Microsoft Deployment Toolkit Auto-Deployment PowerShell Script v3.3
 
 **Warning: This script is intended to run on a clean Windows installation which doesn’t have MDT/ADK installed/configured already. Unexpected results will arise when running on already configured deployment servers.**
 
@@ -8,7 +8,7 @@ Tested on Windows 10 1607, Server 2016 & 2019
 
 ## How to use
 1) Download and save the script in this repo
-2) Add your desired WIM file that you wish to auto import in the same folder where the script resides
+2) Add your desired WIM files that you wish to auto import in the same folder where the script resides
 3) Run with the below command:
 
 ```powershell
