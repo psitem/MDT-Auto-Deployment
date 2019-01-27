@@ -38,4 +38,4 @@ You will be asked to enter the following information:
 - VLC Media Player
 - Treesize Free
 - Putty
-- Office 365 2016 Monthly build without old OneDrive client
+- Office 365 monthly build
