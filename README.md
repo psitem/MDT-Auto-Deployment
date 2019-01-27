@@ -7,7 +7,7 @@ Microsoft Deployment Toolkit Auto-Deployment PowerShell Script v3.3
 Tested on Windows 10 1607, Server 2016 & 2019
 
 ## How to use
-1) Download and save the script in this repo
+1) Download: https://github.com/pwshMgr/MDT-Auto-Deployment/archive/3.3.zip
 2) Add your desired WIM files that you wish to auto import in the same folder where the script resides
 3) Run with the below command:
 
